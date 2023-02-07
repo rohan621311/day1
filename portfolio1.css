@@ -1,0 +1,31 @@
+.portfolio{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.header{
+    background-color: rgb(58, 69, 99);
+    color: rgb(221, 37, 37);
+    padding: 60px;
+    width:100px;
+    text-align: center;
+}
+
+.links
+{
+    text-align: center;
+}
+
+body{
+    background-size: 100%;
+}
+
+p{
+    color: rgb(225, 216, 216);
+}
+
+h3{
+    color: white;
+}

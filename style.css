@@ -1,0 +1,20 @@
+.c{
+    color:red;
+    margin: 50px;
+    padding: 10px;
+    border: 2px;
+    border-style: dashed;
+    display:flex;
+    justify-content: center;
+    align-items:center; 
+    width: 250px;
+    height: 700px;
+}
+
+p{
+    color: blueviolet;
+}
+
+a{
+    color: blue;
+}
